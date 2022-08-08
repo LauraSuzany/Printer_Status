@@ -1,6 +1,4 @@
-# Printer_Status
-
-# ApiRestTestJWT
+<h1 align="center">Thermal Printer Paper Status</h1> 
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
