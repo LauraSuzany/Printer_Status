@@ -9,6 +9,6 @@
 
 O obejtivo dessa programa é para verificar o status de impressoras térmicas
 
-obs!(Para o bom funcionamento do programa é imprescindível que vc baixe a versão certo do **_ESCPOS_NET(0.4.0)_**    do contrário até onde pude fazer os teste não irá funcionar)
+obs!(Para o bom funcionamento do programa é imprescindível que vc baixe a versão certo do pacote **_ESCPOS_NET(0.4.0)_**  do contrário até onde pude fazer os teste não irá funcionar)
 ✍ "_Every day is a learning Day"
 business: L.M code e Tecnologia_ 
