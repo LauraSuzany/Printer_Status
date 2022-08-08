@@ -8,5 +8,7 @@
 ![Imagem meramente ilustrativa](https://miro.medium.com/max/1838/1*OhkfRdIEyE6LtGBu0lcrfg.jpeg)
 
 O obejtivo dessa programa é para verificar o status de impressoras térmicas
-✍ "Every day is a learning Day"
-business: L.M code e Tecnologia 
+
+obs!(Para o bom funcionamento do programa é imprescindível que vc baixe a versão certo do **_ESCPOS_NET(0.4.0)_**    do contrário até onde pude fazer os teste não irá funcionar)
+✍ "_Every day is a learning Day"
+business: L.M code e Tecnologia_ 
